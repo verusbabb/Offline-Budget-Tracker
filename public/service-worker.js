@@ -15,6 +15,7 @@ self.addEventListener("install", (event) => {
         "/styles.css",
         "/index.js",
         "/transactiondb.js",
+        "/register-sw.js",
         "/manifest.webmanifest",
         "./icons/icon-192x192.png",
         "./icons/icon-512x512.png",
