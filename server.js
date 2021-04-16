@@ -1,3 +1,4 @@
+//importing dependencies
 const express = require("express");
 const logger = require("morgan");
 const mongoose = require("mongoose");
@@ -15,8 +16,11 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/transaction", {
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/transaction", 
+{
   useNewUrlParser: true,
+  useUnifiedTopology: true,
+  useCreateIndex: true,
   useFindAndModify: false,
 });
 
