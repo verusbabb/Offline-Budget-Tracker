@@ -30,7 +30,7 @@ task to meet the functionality described in the user story was as follows:
 
 ## Screenshot of Working Output
 
-![]()
+![](https://github.com/verusbabb/Offline-Budget-Tracker/blob/main/public/images/budget_tracker.png)
 
 
 
