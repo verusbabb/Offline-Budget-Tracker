@@ -32,6 +32,8 @@ task to meet the functionality described in the user story was as follows:
 
 ![](https://github.com/verusbabb/Offline-Budget-Tracker/blob/main/public/images/budget_tracker.png)
 
-
+## CONNECT WITH ME
+- Email: steve.babb@outlook.com
+- GitHub: https://github.com/verusbabb
 
 
